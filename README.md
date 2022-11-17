@@ -2,7 +2,8 @@
 Examples of numerical methods to solve ordinary equations and partial differential equations with python
 
 ## Example
-### Runge–Kutta methods
+* **Runge–Kutta methods**
+
 A Runge-Kutta method with s-stages and order p is a method in the form
 
 <img
@@ -20,7 +21,8 @@ and the error holds the condition
 <img
   src="https://latex.codecogs.com/svg.image?Max&space;\left|&space;x(t_{i})&space;-&space;x_{i}&space;\right|&space;=&space;Ch&space;t^{p}" title=""
 />
-### Picard's iterative method
+* **Picard's iterative method**
+
 Picard's method is mostly used in mathematical studies of differential equations.
 
 
