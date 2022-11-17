@@ -1,5 +1,5 @@
 # Numerical-methods
-Numerical methods for solving ordinary and partial differential equations with python
+Examples of numerical methods to solve ordinary equations and partial differential equations with python
 
 ## Example
 ### Runge–Kutta methods
