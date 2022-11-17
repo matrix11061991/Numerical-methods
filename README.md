@@ -1,14 +1,30 @@
 # Numerical-methods
 Numerical methods for solving ordinary and partial differential equations with python
 
-## Contributing
+## Example
+### Runge–Kutta methods
+A Runge-Kutta method with s-stages and order p is a method in the form
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+<img
+  src="https://latex.codecogs.com/svg.image?x_{n&plus;1}=&space;x_{n}&space;&plus;&space;\sum&space;_{i=1}^{s}&space;b_{i}.&space;k_{i}" title="x_{n&plus;1}=&space;x_{n}&space;&plus;&space;\sum&space;_{i=1}^{s}&space;b_{i}.&space;k_{i}"
+/>
 
-Please make sure to update tests as appropriate.
+with 
+
+<img
+  src="https://latex.codecogs.com/svg.image?k_{i}&space;=&space;f(x_{n}&space;&plus;&space;\sum_{j=1}^{s}&space;a_{ij}.k_{j}&space;,&space;t_{n}&space;&plus;&space;h&space;c_{i})" title=""
+/>
+
+and the error holds the condition 
+
+<img
+  src="https://latex.codecogs.com/svg.image?Max&space;\left|&space;x(t_{i})&space;-&space;x_{i}&space;\right|&space;=&space;Ch&space;t^{p}" title=""
+/>
+
+
+
 ## 🚀 Author
 Jaurès Ratsimbazafiharivola **[Matrix Tera]**
 
 ## License
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
