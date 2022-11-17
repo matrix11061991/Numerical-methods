@@ -20,7 +20,8 @@ and the error holds the condition
 <img
   src="https://latex.codecogs.com/svg.image?Max&space;\left|&space;x(t_{i})&space;-&space;x_{i}&space;\right|&space;=&space;Ch&space;t^{p}" title=""
 />
-
+### Picard's iterative method
+Picard's method is mostly used in mathematical studies of differential equations.
 
 
 ## 🚀 Author
