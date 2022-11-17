@@ -25,6 +25,22 @@ and the error holds the condition
 
 Picard's method is mostly used in mathematical studies of differential equations.
 
+* **Heat equation**
+
+The heat equation can be written in general terms:
+
+<img
+  src="https://latex.codecogs.com/svg.image?\frac{\partial&space;T}{\partial&space;t}&space;=&space;\alpha&space;\frac{\partial^2&space;T}{\partial&space;x^2}" title=""
+/>
+
+where
+
+<img
+  src="https://latex.codecogs.com/svg.image?\alpha&space;=&space;\frac{\lambda&space;}{\mu&space;C}&space;" title=""
+/>
+
+is the thermal diffusivity.
+
 
 ## 🚀 Author
 Jaurès Ratsimbazafiharivola **[Matrix Tera]**
