@@ -25,7 +25,7 @@ and the error holds the condition
 
 Picard's method is mostly used in mathematical studies of differential equations.
 
-* **Heat equation**
+* **discretization methods to solve Heat equation**
 
 The heat equation can be written in general terms:
 
